@@ -1,5 +1,12 @@
 # Greedy Wavelet Method (GWM) 
 
+## Modifications
+
+This version is built using GNU Fortran 15.2.0 (MSYS2) and compatible with NumPy 2.2.6
+The original version is built using an older version of GNU Fortran and compatible with NumPy 1.xx.
+
+## Introduction
+
 GWM is a standalone software package based on the algorithm published in: 
 "A greedy algorithm for wavelet-based time domain response spectrum matching" 
 (Nie, Graizer, and Seber, *Nuclear Engineering and Design*, **410**(112384), 15 August 2023; https://doi.org/10.1016/j.nucengdes.2023.112384)
