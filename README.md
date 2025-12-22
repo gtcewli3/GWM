@@ -2,7 +2,7 @@
 
 ## Modifications
 
-This version is built using GNU Fortran 15.2.0 (MSYS2) and compatible with NumPy 2.2.6
+This version is built using GNU Fortran 15.2.0 (MSYS2) and compatible with NumPy 2.2.6.
 The original version is built using an older version of GNU Fortran and compatible with NumPy 1.xx.
 
 ## Introduction
